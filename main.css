@@ -490,15 +490,16 @@ img {
 #contact p:last-child {
     margin-bottom: 0;
 }
+/* ========== FOOTER STYLING ========== */
 footer {
-    background-color: #264c59;
+    width: 100%;
     background-color: var(--green);
     text-align: center;
-    width: 100%;
 }
+
 footer .logo {
-    padding: 3em;
-    width: 300px;
+    width: 275px;
+    padding: 3em 0;
 }
 
 /* ========== TYPED JS STYLING ========== */
